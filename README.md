@@ -1,5 +1,9 @@
 # IconMaker
 
+![Image of Unity Editor](Thumbnail.png)
+
+----------
+
 Created with HDRP in Unity 2022.3.0, though it should work with any version
 
 ## Setup
@@ -19,10 +23,6 @@ Created with HDRP in Unity 2022.3.0, though it should work with any version
 2. Assign the Camera and RenderTexture in the inspector - assigning the target object is optional
 3. Specify the output directory and name
 4. Press Render
-
-----------
-
-![Image of Unity Editor](Thumbnail.png)
 
 
 <br><br>
