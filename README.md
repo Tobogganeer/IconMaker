@@ -23,7 +23,7 @@ OR
 - You can also set the depth and stencil format to None
 ### Camera
 - Choose an fov you prefer - currently not tested with orthographic cameras
-- Position the camera towards your desired object - auto positioning can help
+- Position the camera towards your desired object - Fit to Target can help
 
 ## Component Usage
 1. Attach the `IconMaker` component to an object
