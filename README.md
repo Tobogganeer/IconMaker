@@ -6,6 +6,13 @@
 
 Created with HDRP in Unity 2022.3.0, though it should work with any version
 
+## Installation
+- Clone the repository into your project
+
+OR
+
+- Download the Unity Package from the Releases tab
+
 ## Setup
 ### Scene
 - (HDRP) Choose fitting volume & settings
@@ -20,7 +27,7 @@ Created with HDRP in Unity 2022.3.0, though it should work with any version
 
 ## Component Usage
 1. Attach the `IconMaker` component to an object
-2. Assign the Camera and RenderTexture in the inspector - assigning the target object is optional
+2. Assign the Camera and RenderTexture in the inspector - target object is optional (used for 'Fit to Target')
 3. Specify the output directory and name
 4. Press Render
 
